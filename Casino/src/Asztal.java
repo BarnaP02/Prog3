@@ -29,7 +29,10 @@ public class Asztal {
     public void emel(double d){
         tet += d;
     }
-    public void kor(){
+    public void kor() throws NincsJatekos{
+    	if(jatekosok.length==0){
+    		throw new NincsJatekos("Nem ul senki az asztalnál.");
+    	}
         kor++;
         Jatekos gyoztes;
         boolean van_gyoztes = false;
