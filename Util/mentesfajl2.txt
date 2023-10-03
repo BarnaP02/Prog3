@@ -1,0 +1,8 @@
+Guinness stout 4.4
+Guinness stout 4.2
+Leffe_bruin brown_wale 22.8
+Leffe_bruin brown_ale 0.5
+Guinness stout 4.22
+Leffe_bruin brown_ale 10.5
+Dr_Eher pilsner 5.2
+A B 42.5
