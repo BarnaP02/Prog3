@@ -13,6 +13,7 @@ public class Fifo {
             wait();
         }
         lista.add(item);
+        //System.out.println("put " + Thread.currentThread().getName());
         notifyAll();
     }
     public synchronized String get() throws InterruptedException {
@@ -20,6 +21,7 @@ public class Fifo {
             wait();
         }
         String item = lista.removeFirst();
+        //System.out.println("get " + Thread.currentThread().getName());
         notifyAll();
         return item;
     }
