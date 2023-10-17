@@ -29,7 +29,7 @@ public class Main {
         c = new Div();
         map.put("div", c);
 
-        boolean exit_not_called = true;
+        //boolean exit_not_called = true;
         while (true) {
             String line;
             line = scanner.nextLine();
