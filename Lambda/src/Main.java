@@ -7,6 +7,7 @@ public class Main {
     public static Scanner scanner = new Scanner(System.in);
     public static Map<String, Comparator<Beer>> comps = new HashMap<>();
     public static HashMap<String, Command> commands =  new HashMap<>();
+    public static LinkedList<String> lparams = new LinkedList<String>();
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         //ArrayList<Beer> lista= new ArrayList<Beer>();
@@ -29,6 +30,9 @@ public class Main {
         commands.put("search", Main::search);
         commands.put("find", Main::find);
         commands.put("delete", Main::delete);
+        for(String key : comps.keySet()){
+        	lparams.add(key);
+        }
 
         while(scanner.hasNext()) {
             String line = scanner.nextLine();
@@ -73,22 +77,82 @@ public class Main {
         }
         else{
             if (cmd[1].equals("name")){
-                Collections.sort(lista, new NameComparator());
+            	/*Collections.sort(lista,
+            		(b1,b2) -> b1.getName().compareTo(b2.getName())
+            		);*/
+    	        for(String key : lparams){
+    	        	System.out.println("ooo " + key);
+    	        }
+            	for(int i = 0; i < lparams.size(); ++i){
+            		if(cmd[1].equals(lparams.get(i))){
+            			lparams.add(lparams.remove(i));
+
+            	        for(String key : lparams){
+            	        	System.out.println(key);
+            	        }
+            	        break;
+            		}
+            	}/*
+                //comps.get(cmd[0]).compare(cmd);
+            	for(String elem : lparams){
+            		Collections.sort(lista, comps.get(elem));
+            	}
+                //Collections.sort(lista, new NameComparator());
                 for (Beer listaelem : lista){
                     System.out.println(listaelem.toString());
-                }
+                }*/
             }
             if (cmd[1].equals("style")){
-                Collections.sort(lista, new StyleComparator());
+            	/*Collections.sort(lista,
+            			(b1,b2) -> b1.getStyle().compareTo(b2.getStyle())
+            			);*/
+    	        for(String key : lparams){
+    	        	System.out.println("--- " + key);
+    	        }
+            	for(int i = 0; i < lparams.size(); ++i){
+            		if(cmd[1].equals(lparams.get(i))){
+            			lparams.add(lparams.remove(i));
+
+            	        for(String key : lparams){
+            	        	System.out.println(key);
+            	        }
+            	        break;
+            		}
+            	}/*
+                //comps.get(cmd[0]).compare(cmd);
+            	for(String elem : lparams){
+            		Collections.sort(lista, comps.get(elem));
+            	}
+            	//Collections.sort(lista, new StyleComparator());
                 for (Beer listaelem : lista){
                     System.out.println(listaelem.toString());
-                }
+                }*/
             }
             if (cmd[1].equals("strength")){
-                Collections.sort(lista, new StrengthComparator());
-                for (Beer listaelem : lista){
-                    System.out.println(listaelem.toString());
-                }
+            	/*Collections.sort(lista,
+            			(b1,b2) -> Double.compare(b1.getAlkoholfok(), b2.getAlkoholfok())
+            			);*/
+    	        for(String key : lparams){
+    	        	System.out.println("/// " + key);
+    	        }
+            	for(int i = 0; i < lparams.size(); ++i){
+            		if(cmd[1].equals(lparams.get(i))){
+            			lparams.add(lparams.remove(i));
+
+            	        for(String key : lparams){
+            	        	System.out.println(key);
+            	        }
+            	        break;
+            		}
+            	}
+            }
+            //comps.get(cmd[0]).compare(cmd);
+        	for(String elem : lparams){
+        		Collections.sort(lista, comps.get(elem));
+        	}
+            //Collections.sort(lista, new StrengthComparator());
+            for (Beer listaelem : lista){
+                System.out.println(listaelem.toString());
             }
         }
     }
