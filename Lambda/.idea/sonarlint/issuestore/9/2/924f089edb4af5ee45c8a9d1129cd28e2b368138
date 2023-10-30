@@ -1,0 +1,83 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Çë‹ûÿÿÿÿ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "strength" 4 times.(žøÁô
+[
+java:S1192"FDefine a constant instead of duplicating this literal "style" 4 times.(±™×"
+F
+java:S1066“"/Merge this if statement with the enclosing one.(öÓü‡
+F
+java:S1066—"/Merge this if statement with the enclosing one.(ÉœË€
+F
+java:S1066›"/Merge this if statement with the enclosing one.(¿ÑÜê
+F
+java:S1066«"/Merge this if statement with the enclosing one.(þöñš
+K
+java:S1066¯"/Merge this if statement with the enclosing one.(Ñûôøüÿÿÿÿ
+K
+java:S1066³"/Merge this if statement with the enclosing one.(¦á‹Ÿúÿÿÿÿ
+K
+java:S1066·"/Merge this if statement with the enclosing one.(”Ö“±øÿÿÿÿ
+€
+java:S1319"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(¢Çë‹ûÿÿÿÿ
+€
+java:S1319	"eThe type of "commands" should be an interface such as "Map" rather than the implementation "HashMap".(Ëˆª§üÿÿÿÿ
+l
+java:S1104"QMake lista a static final constant or non-public and provide accessors if needed.(¢Çë‹ûÿÿÿÿ
+n
+java:S1104"SMake scanner a static final constant or non-public and provide accessors if needed.(¾©´¬øÿÿÿÿ
+g
+java:S1104"QMake comps a static final constant or non-public and provide accessors if needed.(”§±¶
+o
+java:S1104	"TMake commands a static final constant or non-public and provide accessors if needed.(Ëˆª§üÿÿÿÿ
+F
+java:S1444"+Make this "public static lista" field final(¢Çë‹ûÿÿÿÿ
+H
+java:S1444"-Make this "public static scanner" field final(¾©´¬øÿÿÿÿ
+A
+java:S1444"+Make this "public static comps" field final(”§±¶
+I
+java:S1444	".Make this "public static commands" field final(Ëˆª§üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+8
+java:S2386"Make this member "protected".(¢Çë‹ûÿÿÿÿ
+3
+java:S2386"Make this member "protected".(”§±¶
+8
+java:S2386	"Make this member "protected".(Ëˆª§üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(€Ã‡èÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¼š¼“
+@	java:S106"+Replace this use of System.out by a logger.(³«“ï
+@	java:S106%"+Replace this use of System.out by a logger.(”©´ä
+V	java:S125+"<This block of commented-out lines of code should be removed.(å²Æ¦úÿÿÿÿ
+?	java:S106A"+Replace this use of System.out by a logger.(¯è¾
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Á…×Òþÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(®ÊÎ 
+@	java:S106N"+Replace this use of System.out by a logger.(®ÊÎ 
+@	java:S106T"+Replace this use of System.out by a logger.(®ÊÎ 
+@	java:S106Z"+Replace this use of System.out by a logger.(®ÊÎ 
+E	java:S106i"+Replace this use of System.out by a logger.(»©Éíþÿÿÿÿ
+[
+java:S1193l"@Replace the usage of the "instanceof" operator by a catch block.(ªíÁ¢ýÿÿÿÿ
+E	java:S106n"+Replace this use of System.err by a logger.(ùœÃœûÿÿÿÿ
+E	java:S106}"+Replace this use of System.out by a logger.(øóüÔûÿÿÿÿ
+\
+java:S1193€"@Replace the usage of the "instanceof" operator by a catch block.(ªíÁ¢ýÿÿÿÿ
+F	java:S106‚"+Replace this use of System.err by a logger.(ùœÃœûÿÿÿÿ
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(àËÉÏ
+A	java:S106"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106”"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106˜"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106œ"+Replace this use of System.out by a logger.(®ÊÎ 
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ßÛö…üÿÿÿÿ
+A	java:S106¥"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106¬"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106°"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106´"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106¸"+Replace this use of System.out by a logger.(®ÊÎ 
+A	java:S106Ã"+Replace this use of System.out by a logger.(ÊÊÀÝ

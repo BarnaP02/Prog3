@@ -1,0 +1,14 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(øÃÂşÿÿÿÿ8‡¦»¸1
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆœÌıÿÿÿÿ8Š¦»¸1
+>
+java:S1643N"Use a StringBuilder instead.(ÌĞôüÿÿÿÿ8Š¦»¸1
+7
+java:S1220""Move this file to a named package.8‹¦»¸1
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÁŞÃôüÿÿÿÿ8—¦»¸1
+H
+java:S1905I"&Remove this unnecessary cast to "int".(®úù¢ÿÿÿÿÿ8š¦»¸1
+H
+java:S1905M"&Remove this unnecessary cast to "int".(ˆœÌıÿÿÿÿ8›¦»¸1

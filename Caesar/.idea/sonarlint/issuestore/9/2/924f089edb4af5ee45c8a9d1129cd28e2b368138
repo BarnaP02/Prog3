@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8¤ñ÷Œ¸1
+W
+java:S1854":Remove this useless assignment to local variable "cFrame".(…·—Í8Øœ¦¸1
+U
+java:S1854"8Remove this useless assignment to local variable "test".(òÂ»«8ˆª—¸1
+F
+java:S1481")Remove this unused "test" local variable.(òÂ»«8ˆª—¸1
+X	java:S125"<This block of commented-out lines of code should be removed.(òÛ½³8ˆª—¸1
+H
+java:S1481"+Remove this unused "cFrame" local variable.(…·—Í8Úœ¦¸1
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8’È—¸1
