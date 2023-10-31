@@ -1,0 +1,59 @@
+
+r
+java:S1104 "PMake Grid a static final constant or non-public and provide accessors if needed.(¼°´•øÿÿÿÿ8¦ÜØì·1
+{
+java:S1104!"^Make neighborOffsetEven a static final constant or non-public and provide accessors if needed.(áÙˆÇ8¦ÜØì·1
+z
+java:S1104$"]Make neighborOffsetOdd a static final constant or non-public and provide accessors if needed.(êêò´8¦ÜØì·1
+t
+java:S1104*"RMake cruser a static final constant or non-public and provide accessors if needed.(©ëÛæûÿÿÿÿ8¦ÜØì·1
+d
+java:S2184<"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿ8§ÜØì·1
+j	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷³¼º8ŒİØì·1
+p	java:S116 "ORename this field "Grid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼°´•øÿÿÿÿ8ŒİØì·1
+>
+java:S1170"!Make this final field static too.(¤ê›Ú8İØì·1
+=
+java:S1170"!Make this final field static too.(ğŸÁ8İØì·1
+C
+java:S1170"!Make this final field static too.(ößŒ„øÿÿÿÿ8İØì·1
+>
+java:S1170"!Make this final field static too.(˜ä´²8İØì·1
+>
+java:S1170"!Make this final field static too.(Íãª€8İØì·1
+>
+java:S1170"!Make this final field static too.(õ­Å˜8İØì·1
+=
+java:S1170"!Make this final field static too.(ÉŸ‘58İØì·1
+>
+java:S1170"!Make this final field static too.(üàÅ8İØì·1
+>
+java:S1170"!Make this final field static too.(àï¢ã8İØì·1
+=
+java:S1170"!Make this final field static too.(¹¾Š}8İØì·1
+>
+java:S1170"!Make this final field static too.(•÷É8İØì·1
+C
+java:S1170"!Make this final field static too.(Òó­‚ùÿÿÿÿ8İØì·1
+>
+java:S1170"!Make this final field static too.(óâ³•8İØì·1
+H
+java:S1948 "&Make "Grid" transient or serializable.(¼°´•øÿÿÿÿ8İØì·1
+D
+java:S1948'"'Make "tileM" transient or serializable.(Ñì½8İØì·1
+H
+java:S1948("&Make "keyH" transient or serializable.(•ˆøÓøÿÿÿÿ8İØì·1
+I
+java:S1948)",Make "gameThread" transient or serializable.(¡ç®ş8İØì·1
+J
+java:S1948*"(Make "cruser" transient or serializable.(©ëÛæûÿÿÿÿ8İØì·1
+G	java:S106S"+Replace this use of System.out by a logger.(©¬–Ó8‘İØì·1
+]	java:S125T"<This block of commented-out lines of code should be removed.(£ÀŞôúÿÿÿÿ8‘İØì·1
+X	java:S125W"<This block of commented-out lines of code should be removed.(ãŠë8‘İØì·1
+L	java:S106i"+Replace this use of System.out by a logger.(ß¼‰Üùÿÿÿÿ8‘İØì·1
+G	java:S106k"+Replace this use of System.out by a logger.(ùó‚–8‘İØì·1
+L	java:S106p"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’İØì·1
+W
+java:S1161w":Add the "@Override" annotation above this method signature(³ıŸê8’İØì·1
+Z
+java:S1128	"=Remove this unused import 'java.sql.SQLSyntaxErrorException'.(š¶ê˜8¼üáí·1

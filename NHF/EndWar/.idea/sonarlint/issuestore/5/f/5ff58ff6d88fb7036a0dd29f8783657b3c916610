@@ -1,0 +1,24 @@
+
+t
+java:S1104"RMake worldX a static final constant or non-public and provide accessors if needed.(ª‡ãìıÿÿÿÿ8´ÖŞ·1
+t
+java:S1104"RMake worldY a static final constant or non-public and provide accessors if needed.(ª‡ãìıÿÿÿÿ8”’Ş·1
+u
+java:S1104
+"SMake sprite1 a static final constant or non-public and provide accessors if needed.(ÀÊÓÔşÿÿÿÿ8Ÿéø¶1
+u
+java:S1104"SMake sprite2 a static final constant or non-public and provide accessors if needed.(Â¥Ù­ûÿÿÿÿ8Ÿéø¶1
+r
+java:S1104"UMake direction a static final constant or non-public and provide accessors if needed.(Çññ¢8Ÿéø¶1
+y
+java:S1104"WMake slowCounter a static final constant or non-public and provide accessors if needed.(©ÁÜçøÿÿÿÿ8˜Êéø¶1
+o
+java:S1104"SMake slowNum a static final constant or non-public and provide accessors if needed.(—õèC8Ÿéø¶1
+v
+java:S1104"YMake spriteCounter a static final constant or non-public and provide accessors if needed.(¤À8Ÿéø¶1
+r
+java:S1104"UMake spriteNum a static final constant or non-public and provide accessors if needed.(‹ö¸ù8Ÿéø¶1
+F
+java:S1659"$Declare "worldY" on a separate line.(ª‡ãìıÿÿÿÿ8˜’Ş·1
+I
+java:S1128",Remove this unused import 'java.nio.Buffer'.(î¦Ïî8Ÿéø¶1
